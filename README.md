@@ -1,6 +1,6 @@
 ### Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm **Arif Khan**. a passionate Site Reliability Engineer (SRE) and DevOps enthusiast, dedicated to ensuring the reliability, scalability, and performance of complex systems.
+I'm **Arif Khan**, a passionate Site Reliability Engineer (SRE) and DevOps enthusiast, dedicated to ensuring the reliability, scalability, and performance of complex systems.
 
 🚀 As an SRE/DevOps Engineer, I thrive in dynamic environments where I can architect, automate, and optimize infrastructure and deployment pipelines to accelerate software delivery and improve operational efficiency.
 
